@@ -1,6 +1,6 @@
 Anonymous Grading Platform
 
-This project is for Web Technologies assignment, for the EasyDevs Team. The goal is to build a simple web app where students can upload their project, and other randomly selected students can grade it anonymously. The professor can see the final results but not the identity of the graders.
+This project is for Web Technologies assignment, for the EasyDevs Team(Busca Edoardo, Andrei Stefan). The goal is to build a simple web app where students can upload their project, and other randomly selected students can grade it anonymously. The professor can see the final results but not the identity of the graders.
 
 Project Description
 
